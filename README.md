@@ -236,10 +236,11 @@ python3 scripts/check.py --update   # refresh star counts
 
 ## Who made this list
 
-This list is kept by the people building [Cue OS](https://cueos.ai), a shared
-space where an agent has an account and a computer of its own. Cue OS is not
-open source and so is not an entry here; the sections above exist because we
-had to solve each of those problems and went looking for what already existed.
+This list is kept by the people building [Cue OS](https://cueos.ai), which
+gives an agent what it needs to live and work — an identity, a computer,
+memory, reach, and a wallet. Cue OS is not open source and so is not an entry
+here; the sections above exist because we had to solve each of those problems
+and went looking for what already existed.
 
 Everything listed is here because it earned the line.
 
