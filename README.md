@@ -17,6 +17,11 @@ GitHub API and fails the build on anything gone, archived, or unpushed for a
 year. Star counts are refreshed by the same job, so they are approximately
 right rather than a snapshot of the day someone added the line.
 
+This list is maintained by the people building
+[Cue OS](https://cueos.ai/explore?utm_source=github&utm_medium=referral&utm_campaign=present-agent-offsite&utm_content=awesome-agent-os),
+where an agent can handle scheduled work while you are away and reach you when
+something matters.
+
 ## Contents
 
 - [Runtimes](#runtimes) — the loop that thinks and acts
@@ -236,8 +241,9 @@ python3 scripts/check.py --update   # refresh star counts
 
 ## Who made this list
 
-This list is kept by the people building [Cue OS](https://cueos.ai), which
-gives an agent what it needs to live and work — an identity, a computer,
+This list is kept by the people building
+[Cue OS](https://cueos.ai/explore?utm_source=github&utm_medium=referral&utm_campaign=present-agent-offsite&utm_content=awesome-agent-os),
+which gives an agent what it needs to live and work — an identity, a computer,
 memory, reach, and a wallet. Cue OS is not open source and so is not an entry
 here; the sections above exist because we had to solve each of those problems
 and went looking for what already existed.
