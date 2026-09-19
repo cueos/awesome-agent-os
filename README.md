@@ -17,6 +17,11 @@ GitHub API and fails the build on anything gone, archived, or unpushed for a
 year. Star counts are refreshed by the same job, so they are approximately
 right rather than a snapshot of the day someone added the line.
 
+This list is maintained by the people building
+[Cue OS](https://cueos.ai/explore?utm_source=github&utm_medium=referral&utm_campaign=present-agent-offsite&utm_content=awesome-agent-os),
+where an agent can handle scheduled work while you are away and reach you when
+something matters.
+
 ## Contents
 
 - [Runtimes](#runtimes) — the loop that thinks and acts
@@ -57,6 +62,7 @@ runtime reaches for.*
 - **[smolagents](https://github.com/huggingface/smolagents)** — Small library for agents that write Python to call tools instead of emitting JSON tool calls. `⭐ 28.9k`
 - **[openai-agents-python](https://github.com/openai/openai-agents-python)** — Minimal primitives — agents, handoffs, guardrails — for multi-agent work without a heavy framework. `⭐ 28.9k`
 - **[intentkit](https://github.com/crestalnetwork/intentkit)** — Self-hosted server that runs and schedules a team of agents with shared skills. `⭐ 6.5k`
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** — Desktop runtime where a Commander coordinates specialist agents through one local-first chat. `⭐ 1.4k`
 - **[sandbase-harness](https://github.com/sandbaseai/sandbase-harness)** — Local-first runtime for durable agent sessions, sandboxed tools, MCP access, approvals, credentials, and replay. `⭐ 646`
 
 ## A computer of its own
@@ -144,7 +150,6 @@ people already have open.*
 - **[bolt-js](https://github.com/slackapi/bolt-js)** — Slack's own framework for apps that listen in channels and reply, including agent-backed ones. `⭐ 2.9k`
 - **[lark-coding-agent-bridge](https://github.com/zarazhangrui/lark-coding-agent-bridge)** — Drives a local coding agent from Feishu or Lark chat, with streaming replies per conversation. `⭐ 2.3k`
 - **[mautrix/whatsapp](https://github.com/mautrix/whatsapp)** — Bridges WhatsApp into Matrix, so an agent speaks one protocol and reaches several networks. `⭐ 1.9k`
-- **[agentapi](https://github.com/coder/agentapi)** — Puts an HTTP API in front of a terminal coding agent so other software can drive it. `⭐ 1.5k`
 - **[bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)** — Forwards iMessage to and from a Mac over an API, opening the hardest channel. `⭐ 1.1k`
 
 ## Identity and presence
@@ -237,8 +242,9 @@ python3 scripts/check.py --update   # refresh star counts
 
 ## Who made this list
 
-This list is kept by the people building [Cue OS](https://cueos.ai), which
-gives an agent what it needs to live and work — an identity, a computer,
+This list is kept by the people building
+[Cue OS](https://cueos.ai/explore?utm_source=github&utm_medium=referral&utm_campaign=present-agent-offsite&utm_content=awesome-agent-os),
+which gives an agent what it needs to live and work — an identity, a computer,
 memory, reach, and a wallet. Cue OS is not open source and so is not an entry
 here; the sections above exist because we had to solve each of those problems
 and went looking for what already existed.
