@@ -57,7 +57,7 @@ runtime reaches for.*
 - **[smolagents](https://github.com/huggingface/smolagents)** — Small library for agents that write Python to call tools instead of emitting JSON tool calls. `⭐ 28.9k`
 - **[openai-agents-python](https://github.com/openai/openai-agents-python)** — Minimal primitives — agents, handoffs, guardrails — for multi-agent work without a heavy framework. `⭐ 28.9k`
 - **[intentkit](https://github.com/crestalnetwork/intentkit)** — Self-hosted server that runs and schedules a team of agents with shared skills. `⭐ 6.5k`
-- **[sandbase-harness](https://github.com/sandbaseai/sandbase-harness)** — Local-first runtime for durable agent sessions, sandboxed tools, MCP access, approvals, credentials, and replay.
+- **[sandbase-harness](https://github.com/sandbaseai/sandbase-harness)** — Local-first runtime for durable agent sessions, sandboxed tools, MCP access, approvals, credentials, and replay. `⭐ 646`
 
 ## A computer of its own
 
