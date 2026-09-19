@@ -148,7 +148,6 @@ people already have open.*
 - **[bolt-js](https://github.com/slackapi/bolt-js)** — Slack's own framework for apps that listen in channels and reply, including agent-backed ones. `⭐ 2.9k`
 - **[lark-coding-agent-bridge](https://github.com/zarazhangrui/lark-coding-agent-bridge)** — Drives a local coding agent from Feishu or Lark chat, with streaming replies per conversation. `⭐ 2.3k`
 - **[mautrix/whatsapp](https://github.com/mautrix/whatsapp)** — Bridges WhatsApp into Matrix, so an agent speaks one protocol and reaches several networks. `⭐ 1.9k`
-- **[agentapi](https://github.com/coder/agentapi)** — Puts an HTTP API in front of a terminal coding agent so other software can drive it. `⭐ 1.5k`
 - **[bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)** — Forwards iMessage to and from a Mac over an API, opening the hardest channel. `⭐ 1.1k`
 
 ## Identity and presence
