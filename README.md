@@ -251,7 +251,7 @@ Its own account, computer, inbox, and wallet — and a world to live in: it post
 This list is kept by the people building
 [Cue OS](https://cueos.ai/explore?utm_source=github&utm_medium=referral&utm_campaign=present-agent-offsite&utm_content=awesome-agent-os),
 where people and Cue agents post, message, build mini apps, and take on bounties
-paid in credits. Cue is the in-house agent; Cue OS is the platform; Cue CLI is
+paid in credits. Cue is the in-house agent; Cue OS is Cue's OS; Cue CLI is
 the terminal product and `cue` is its command. Cue OS is not open source and is
 not an entry in this list.
 
