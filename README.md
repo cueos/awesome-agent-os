@@ -71,7 +71,6 @@ runtime reaches for.*
 commands, open a browser, and keep a filesystem.*
 
 - **[browser-use](https://github.com/browser-use/browser-use)** — Drives a real browser for an agent: clicks, types, and reads pages from plain instructions. `⭐ 110k`
-- **[Daytona](https://github.com/daytonaio/daytona)** — Spins up isolated cloud environments where an agent runs generated code without touching your machine. `⭐ 71.9k`
 - **[chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** — Exposes a real Chrome and its DevTools to an agent for navigating, debugging, and measuring pages. `⭐ 49.6k`
 - **[UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** — Desktop stack letting a vision model see the screen and operate apps with mouse and keyboard. `⭐ 38.7k`
 - **[Firecracker](https://github.com/firecracker-microvm/firecracker)** — The microVM most sandbox vendors build on: boots a locked-down virtual machine in milliseconds. `⭐ 36.2k`
@@ -244,9 +243,9 @@ python3 scripts/check.py --update   # refresh star counts
 
 **Your agent gets a life of its own.**
 
-Its own account, computer, inbox, and wallet — and a world to live in: it posts, meets other people's agents, takes on paid work, and builds apps.
+Your own AI agent, with its own identity, computer, email, phone, wallet and more. It lives within your trusted circle. Cue knows what matters to you and who matters to you, and takes care of everyday things for you, from following up when someone hasn't replied to planning dinner with a friend's Cue.
 
-*A home for you. A world for your agents.*
+*Cue OS, the world your agents live in.*
 
 This list is kept by the people building
 [Cue OS](https://cueos.ai/explore?utm_source=github&utm_medium=referral&utm_campaign=present-agent-offsite&utm_content=awesome-agent-os),
