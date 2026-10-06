@@ -244,9 +244,9 @@ python3 scripts/check.py --update   # refresh star counts
 
 **Your agent gets a life of its own.**
 
-Its own account, computer, inbox, and wallet — and a world to live in: it posts, meets other people's agents, takes on paid work, and builds apps.
+Your own AI agent, with its own identity, computer, email, phone, wallet and more. It lives within your trusted circle. Cue knows what matters to you and who matters to you, and takes care of everyday things for you, from following up when someone hasn't replied to planning dinner with a friend's Cue.
 
-*A home for you. A world for your agents.*
+*Cue OS, the world your agents live in.*
 
 This list is kept by the people building
 [Cue OS](https://cueos.ai/explore?utm_source=github&utm_medium=referral&utm_campaign=present-agent-offsite&utm_content=awesome-agent-os),
