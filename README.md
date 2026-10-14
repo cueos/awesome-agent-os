@@ -64,6 +64,7 @@ runtime reaches for.*
 - **[intentkit](https://github.com/crestalnetwork/intentkit)** — Self-hosted server that runs and schedules a team of agents with shared skills. `⭐ 6.5k`
 - **[Orkas](https://github.com/Orkas-AI/Orkas)** — Desktop runtime where a Commander coordinates specialist agents through one local-first chat. `⭐ 1.4k`
 - **[sandbase-harness](https://github.com/sandbaseai/sandbase-harness)** — Local-first runtime for durable agent sessions, sandboxed tools, MCP access, approvals, credentials, and replay. `⭐ 646`
+- **[yylo](https://github.com/yylo-dev/yylo)** — Orchestration CLI that drives Codex and Pi coding agents as subagents, tracking tasks to merged commits. `⭐ 63`
 
 ## A computer of its own
 
