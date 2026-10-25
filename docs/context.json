@@ -1,6 +1,7 @@
 {
   "system": [
-    "README.md"
+    "README.md",
+    "docs/rules.md"
   ],
   "exclude": []
 }

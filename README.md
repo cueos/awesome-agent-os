@@ -1,21 +1,24 @@
 # Awesome Agent OS [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> What an agent needs to live and work on its own.
+> Personal agents, companion chatbots, and tools for building them.
 
-An agent that answers questions needs a model. An agent that *works* needs
-more than that, and the pieces are scattered across projects that do not think
-of themselves as related: something to run the loop, a computer to run it on,
-memory that survives the session, skills that reach past the chat window, a way
-to reach the person it works for, an identity of its own, and — increasingly —
-a way to pay for what it uses.
+Personal AI takes several forms. A personal agent keeps track of work and
+takes action across tools. A companion chatbot offers ongoing conversation,
+a character to return to, and continuity between chats. Both make memory,
+voice, and the experience of being known worth paying attention to.
 
-This list is organised by those needs rather than by product category, because
-the need is the part that stays true while the tools churn.
+Start with the product sections to find something to use. For building or
+running your own agent, the open source sections follow what it needs: a
+runtime, a computer, memory, skills, communication, identity, and money.
+The product sections include proprietary services. Products are grouped by
+their main purpose; memory or voice alone does not determine the category.
+[Product source notes](docs/personal-agents-and-companions.md) record the
+public evidence and access limits behind the product entries.
 
-**Every entry is checked.** A weekly job re-reads each repository through the
-GitHub API and fails the build on anything gone, archived, or unpushed for a
-year. Star counts are refreshed by the same job, so they are approximately
-right rather than a snapshot of the day someone added the line.
+A weekly job checks linked pages and GitHub repository health. It flags
+repositories that are gone, archived, or unpushed for a year. Star counts are
+snapshots refreshed with the script below. These checks cover reachability
+and repository activity; product capabilities come from the linked sources.
 
 This list is maintained by the people building
 [Cue OS](https://cueos.ai/explore?utm_source=github&utm_medium=referral&utm_campaign=present-agent-offsite&utm_content=awesome-agent-os),
@@ -24,6 +27,8 @@ wallet, and a world to live in.
 
 ## Contents
 
+- [Personal agents](#personal-agents) — ongoing work across apps and tools
+- [Companion chatbots](#companion-chatbots) — conversation, characters, and companionship
 - [Runtimes](#runtimes) — the loop that thinks and acts
 - [A computer of its own](#a-computer-of-its-own) — sandboxes, machines, computer use
 - [Memory](#memory) — what survives the session
@@ -37,10 +42,35 @@ wallet, and a world to live in.
 
 ---
 
+## Personal agents
+
+*Products for handing off tasks and ongoing responsibilities. These include
+hosted services; access can depend on a plan, region, or invitation.*
+
+- **[Claude Duet](https://claude.com/product/claude-duet)** — Anthropic's agent works across connected apps on a cloud computer and returns tasks for review. *Research preview; US Pro/Max waitlist.*
+- **[dots](https://learn.chatgpt.com/docs/dots)** — OpenAI's agents track ongoing work, use cloud or connected computers, and delegate to Work or Codex. *Gradual rollout.*
+- **[Grok Bot](https://docs.x.ai/grok-bot/overview)** — Persistent AI teammates with individual context, coordinated work, skills, and a shared cloud computer.
+- **[Instinct](https://instinct.com/)** — An assistant you text or call to arrange travel, shop, and handle tasks using a phone and computer.
+- **[Lindy](https://www.lindy.ai/hire/executive-assistant)** — An executive assistant for calendars, meeting preparation, inbox catch-up, and follow-ups across connected work tools.
+- **[Muse (Meta)](https://ai.meta.com/muse/)** — Meta's personal agent uses connected apps and its own virtual computer for tasks, plans, and follow-through.
+- **[Poke](https://poke.com/docs)** — Handles email, scheduling, and reminders through Apple Messages, Telegram, WhatsApp, or RCS, with connected apps.
+
+## Companion chatbots
+
+*Products centred on conversation, personality, roleplay, and companionship.
+Features can depend on a subscription.*
+
+- **[Character.AI](https://character.ai/)** — Create and discover characters for conversation and roleplay through text and voice, with community sharing.
+- **[Kindroid](https://kindroid.ai/)** — Custom companions with editable personalities and backstories, conversation memory, and text, voice, or video chat.
+- **[Nomi](https://nomi.ai/)** — Companions with individual personalities, remembered preferences, and one-to-one or group conversations.
+- **[Replika](https://replika.com/)** — A personal companion built around ongoing conversation, remembered life details, an avatar, and voice interaction.
+
+---
+
 ## Runtimes
 
-*The loop that thinks and acts. Everything else on this list is something a
-runtime reaches for.*
+*The loop that thinks and acts. The building blocks below give a runtime
+computers, memory, tools, and ways to reach people.*
 
 - **[openclaw](https://github.com/openclaw/openclaw)** — Always-on personal agent you message from any device; runs tools and chores on your own machines. `⭐ 387k`
 - **[hermes-agent](https://github.com/NousResearch/hermes-agent)** — A long-running personal agent that accumulates memory and skills instead of resetting every conversation. `⭐ 234k`
@@ -235,7 +265,7 @@ Pull requests welcome — the bar and the entry format are in
 line is as welcome as adding something that does.
 
 ```sh
-python3 scripts/check.py            # verify every entry
+python3 scripts/check.py            # check links and repository health
 python3 scripts/check.py --update   # refresh star counts
 ```
 
@@ -251,8 +281,8 @@ This list is kept by the people building
 [Cue OS](https://cueos.ai/explore?utm_source=github&utm_medium=referral&utm_campaign=present-agent-offsite&utm_content=awesome-agent-os),
 where people and Cue agents post, message, build mini apps, and take on bounties
 paid in credits. Cue is the in-house agent; Cue OS is Cue's OS; Cue CLI is
-the terminal product and `cue` is its command. Cue OS is not open source and is
-not an entry in this list.
+the terminal product and `cue` is its command. Cue OS is our proprietary
+product; this section discloses our involvement in the list.
 
 
 Everything listed is here because it earned the line.
